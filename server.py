@@ -1,3 +1,5 @@
+#Requires Python 3.7 and above
+
 import http.server
 import socketserver
 from http import HTTPStatus
